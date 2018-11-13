@@ -310,3 +310,8 @@ header label {
     width: 100%;
     float: left;
 }
+
+.pagina{
+    margin-top: 30px;
+    background: blue;
+}
